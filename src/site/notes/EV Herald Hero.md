@@ -4,44 +4,38 @@
 
 # Ev Herald Hero Setup Guide
 
----
+## 📌 Hero Positions
 
-## 📌 Hero Positions 
-
-![Ev_Herald_Hero_Heores_Position.png](/img/user/Content/Ev_Herald_Hero_Heores_Position.png)
+![Hero Positions](/img/user/Content/Ev_Herald_Hero_Heores_Position.png)
 
 ---
 
 ## 🌟 Main Hero – Ithena
 
-<div style="display: flex; gap: 10px; flex-wrap: wrap;">
-  <img src="/img/Ev_Herald_Hero_Ithena_Overall.png" alt="Ithena Overview" width="48%">
-  <img src="/img/Ev_Herald_Hero_Ithena_Accesories_Stats.png" alt="Ithena Accessories & Stats" width="48%">
-</div>
+<div style="display: flex; gap: 10px; flex-wrap: wrap; margin-bottom: 20px;"> <img src="/img/Ev_Herald_Hero_Ithena_Overall.png" alt="Ithena Overview" style="width: 48%; border-radius: 8px; box-shadow: 0 4px 8px rgba(0,0,0,0.2);"> <img src="/img/Ev_Herald_Hero_Ithena_Accesories_Stats.png" alt="Ithena Accessories & Stats" style="width: 48%; border-radius: 8px; box-shadow: 0 4px 8px rgba(0,0,0,0.2);"> </div>
 
 ---
 
 ## 🧊 Debuffer – Mirsil
 
-<div style="display: flex; gap: 10px; flex-wrap: wrap;">
-  <img src="/img/Ev_Herald_Hero_Mirsil_Overall.png" alt="Mirsil Overview" width="48%">
-  <img src="/img/Ev_Herald_Hero_Mirsil_Accesories_Stats.png" alt="Mirsil Accessories & Stats" width="48%">
-</div>
+<div style="display: flex; gap: 10px; flex-wrap: wrap; margin-bottom: 20px;"> <img src="/img/Ev_Herald_Hero_Mirsil_Overall.png" alt="Mirsil Overview" style="width: 48%; border-radius: 8px; box-shadow: 0 4px 8px rgba(0,0,0,0.2);"> <img src="/img/Ev_Herald_Hero_Mirsil_Accesories_Stats.png" alt="Mirsil Accessories & Stats" style="width: 48%; border-radius: 8px; box-shadow: 0 4px 8px rgba(0,0,0,0.2);"> </div>
 
 ---
 
 ## 💧 Support – Bardrey (Mana Giver)
 
-![Ev_Herald_Hero_Bardrey_Overall.png](/img/user/Content/Ev_Herald_Hero_Bardrey_Overall.png)
+<div style="margin-bottom: 20px;"> <img src="/img/user/Content/Ev_Herald_Hero_Bardrey_Overall.png" alt="Bardrey Overview" style="width: 100%; border-radius: 8px; box-shadow: 0 4px 8px rgba(0,0,0,0.2);"> </div>
 
 ---
 
-## 📋 Final Raid Formation Preview - Dont put bows on Mirsil
+## 📋 Final Raid Formation Preview
 
-![Ev_Herald_Hero_Raid_Formation.png](/img/user/Content/Ev_Herald_Hero_Raid_Formation.png)
+<div style="margin-bottom: 20px;"> <img src="/img/user/Content/Ev_Herald_Hero_Raid_Formation.png" alt="Raid Formation" style="width: 100%; border-radius: 8px; box-shadow: 0 4px 8px rgba(0,0,0,0.2);"> </div>
+
+> ⚠️ **Important:** Don't put bows on Mirsil
 
 ---
 
 ## 🎬 Final Battle Result
 
-<video src="/img/Ev_Herald_Hero_Battle_Video.mp4" width="100%" controls> Battle video </video>`
+<div style="position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden; max-width: 100%; border-radius: 8px; box-shadow: 0 4px 8px rgba(0,0,0,0.2);"> <video style="position: absolute; top: 0; left: 0; width: 100%; height: 100%; border-radius: 8px;" controls> <source src="/img/Ev_Herald_Hero_Battle_Video.mp4" type="video/mp4"> Your browser does not support the video tag. </video> </div>
