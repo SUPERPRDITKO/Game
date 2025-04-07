@@ -44,4 +44,4 @@
 
 ## 🎬 Final Battle Result
 
-  <img src="/img/Ev_Herald_Hero_Battle_Video.mp4" alt="Battle video" width="100%">
+<video src="/img/Ev_Herald_Hero_Battle_Video.mp4" width="100%" controls> Battle video </video>`
