@@ -8,7 +8,7 @@
 
 ## 📌 Hero Positions 
 
-![Ev Herald Hero Heores Postion.png](/img/user/Content/Ev%20Herald%20Hero%20Heores%20Postion.png)
+![Ev_Herald_Hero_Heores_Position.png](/img/user/Content/Ev_Herald_Hero_Heores_Position.png)
 
 ---
 
@@ -32,16 +32,16 @@
 
 ## 💧 Support – Bardrey (Mana Giver)
 
-![Ev Herald Hero Bardrey Overall.png](/img/user/Content/Ev%20Herald%20Hero%20Bardrey%20Overall.png)
+![Ev_Herald_Hero_Bardrey_Overall.png](/img/user/Content/Ev_Herald_Hero_Bardrey_Overall.png)
 
 ---
 
 ## 📋 Final Raid Formation Preview - Dont put bows on Mirsil
 
-![Ev Herald Hero Raid Formation.png](/img/user/Content/Ev%20Herald%20Hero%20Raid%20Formation.png)
+![Ev_Herald_Hero_Raid_Formation.png](/img/user/Content/Ev_Herald_Hero_Raid_Formation.png)
 
 ---
 
 ## 🎬 Final Battle Result
 
-![[Ev Herald Hero Battle video.mp4]]
+![[Ev_Herald_Hero_Battle_Video.mp4]]
